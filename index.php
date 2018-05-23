@@ -8,7 +8,9 @@
 <body>
 
 	<?php echo "this is first line of text"; ?>
-
+	<?php echo "ADDED SECOND LINE "; ?>
+	<?php echo "LOGIN FUNCTIONALITY ADDED"; ?>
+	
 
 
 </body>
